@@ -1,0 +1,45 @@
+body{
+    
+    background-image: url(https://th.bing.com/th/id/OIP.LGYUipwp2Q1PCN0FdcQCVgHaEo?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.satrish{
+    border: 3px solid;
+    border-radius: 10px;
+    /* background-color: rgba(130, 54, 180, 0.904); */
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 35%;
+    left:400px ;
+    border-color: rgb(3, 3, 3);
+    
+}
+input{
+    width: 150px;
+    margin-top: ;
+    text-align: center;
+    margin-left:80px;
+    background-color: ?rgb(177, 53, 31);
+    
+}
+label{
+    color: rgb(0, 0, 0);
+    margin-left: 80px;
+    
+  
+}
+button{
+    margin-left: 100px;
+    margin-bottom: 90px;
+    border-radius: 10px;
+    width: 120px;
+    color:rgb(5, 5, 5) ;
+    background-color: rgb(9, 233, 9);
+    height:25px;
+}
+text{
+    color: black;
+}
